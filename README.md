@@ -25,14 +25,6 @@ project/
 - pandas
 - openpyxl
 
-## Installation
-
-```bash
-git clone <https://github.com/ユーザー名/リポジトリ名.git>
-cd リポジトリ名
-pip install -r requirements.txt
-```
-
 ## Usage
 
 inputフォルダにCSVを入れて実行

@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 inputフォルダにCSVを入れて実行
 ```bash
-python src/csv_to_excel.py
+python csv_cleaner.py
 ```
 
 outputフォルダにExcelファイルが生成されます。  
